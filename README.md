@@ -11,4 +11,4 @@ Bu proje, SignalR kullanarak bir ASP.NET MVC uygulaması oluşturur. Uygulama, g
 
 ### Örnek Görüntü
 
-![readmepng](https://github.com/yilmazmuharrem/ChatAppSignalR/assets/77534239/0550a090-b9cf-4bc1-9cba-249e3e3c6475)
+![readmepng](https://github.com/yilmazmuharrem/ChatAppSignalR/blob/master/ChatAppSignalR/wwwroot/img/readmepng.png)
